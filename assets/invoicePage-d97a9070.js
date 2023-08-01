@@ -1,1 +1,0 @@
-import{_ as e,d as o,o as s,f as t}from"./index-cc1e8ef7.js";const c={},n=t("h1",null,"This is invoice page",-1),a=[n];function i(r,_,d,p,l,f){return s(),o("div",null,a)}const h=e(c,[["render",i]]);export{h as default};
